@@ -8,7 +8,7 @@
   "server": {
     "ip": "server-viax.aternos.me:60071",
     "port": 60071,
-    "version": "1.21.11",
+    "version": "",
     "try-creative": false
   },
   "position": {
