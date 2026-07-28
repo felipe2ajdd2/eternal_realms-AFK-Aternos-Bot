@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "server-viax.aternos.me:60071",
+    "ip": "server-viax.aternos.me:",
     "port": 60071,
     "version": "",
     "try-creative": false
